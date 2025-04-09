@@ -1,0 +1,10 @@
+{
+  "url": "https://x-1.me/",
+  "name": "DropAlerts",
+  "short_name": "DAB",
+  "iconUrl": "https://via.placeholder.com/192x192.png?text=App+Icon",
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp/privacy-policy.txt",
+  "redirectUrl": "https://t.me/DropAlertsBot/open"
+}
+
